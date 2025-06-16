@@ -1,0 +1,8 @@
+requests==2.31.0
+python-dotenv==1.0.0
+langchain==0.3.25
+langchain-community==0.3.25
+langchain-huggingface==0.3.0
+chromadb==1.0.12
+pypdf==5.6.0
+pyyaml==6.0.2
